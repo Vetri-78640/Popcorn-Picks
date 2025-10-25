@@ -22,7 +22,7 @@ Search for movies, view details, and add your favourites — all in one sleek in
 | Layer | Technology |
 |-------|-------------|
 | **Frontend** | React (Vite) |
-| **Styling** | CSS |
+| **Styling** | Tailwind |
 | **API** | TMDb |
 | **Deployment** | Vercel |
 
